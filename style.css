@@ -8,7 +8,7 @@ h1{
     text-align: center;
     font-weight: 900;
     color: aqua;
-    opacity: 0.2;
+    opacity: 0.5;
     position: fixed;
 }
 button{
@@ -27,7 +27,7 @@ button{
     background-repeat: repeat-x;
     display: block;
     height: 490px;
-    width: 10000px;
+    width: 3000px;
     /* background-size: cover; */
     position: absolute;
     z-index: 5;
@@ -38,7 +38,7 @@ button{
 .road{
     background: url(road.jpg);
     height:210px;
-    width: 200%;
+    width: 3000px;
     /* background-size: cover; */
     /* background-position: bottom; */
     position: relative;
